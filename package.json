@@ -1,0 +1,9 @@
+{
+  "name": "tds2",
+  "version": "1.0.0",
+  "description": "TDS Project 2",
+  "main": "api/index.js",
+  "engines": {
+    "node": ">=14.x"
+  }
+}
