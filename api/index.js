@@ -9,4 +9,15 @@
      } else {
        res.status(405).json({ error: "Method not allowed" });
      }
-   };q
+   };
+
+   {
+     "name": "tds2",
+     "version": "1.0.0",
+     "description": "TDS Project 2",
+     "main": "api/index.js",
+     "dependencies": {
+       "express": "^4.18.2",
+       "multer": "^1.4.5-lts.1"
+     }
+   }
